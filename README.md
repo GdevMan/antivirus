@@ -8,5 +8,5 @@ A python antivirus i made for testing.
 - It uses os to delete mallware. (if user accepts)
 ## How to use
 - Git clone the file or just copy and paste the code on your machine.
-- Install the library "hashlib" using '''pip install hashlib'''
-- Run the file by using '''python antivirus.py'''
+- Install the library "hashlib" using ```pip install hashlib```
+- Run the file by using ```python antivirus.py```
